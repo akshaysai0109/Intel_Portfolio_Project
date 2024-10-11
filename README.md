@@ -2,6 +2,10 @@
 
 This project was completed as part of Intel's Sustainability Team initiative to analyze energy availability and usage across different regions in the United States. The primary goal is to determine the best location for Intel’s new data center based on surplus energy production, renewable energy usage, and energy trends.
 
+# Completed for Global Career Accelerator
+
+This project was undertaken as part of the **Global Career Accelerator course for Summer 2024**. It demonstrates practical skills in data analysis, visualization, and the ability to tackle real-world challenges, like Intel's sustainability efforts.
+
 ## Overview
 
 The project involves SQL queries for data analysis and visualizations in Tableau to help Intel make data-driven decisions. The analysis focuses on:
