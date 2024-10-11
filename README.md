@@ -21,9 +21,9 @@ The project involves SQL queries for data analysis and visualizations in Tableau
 
 ## Technologies Used
 
-- **SQL**: For querying datasets to gather insights into energy production and consumption.
-- **Tableau**: For creating visualizations that present the findings in a clear and intuitive manner.
-- **Microsoft Word/Google Docs**: For documenting the project and findings.
+- **SQL**: Used for querying datasets to gather insights into energy production and consumption.
+- **Tableau**: Used For creating visualizations that present the findings in a clear and intuitive manner.
+- **Microsoft Word/Google Docs**: Used for documenting the project and findings.
 
 ## How to Use This Project
 
